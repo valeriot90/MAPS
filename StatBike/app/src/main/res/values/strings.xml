@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">StatBike</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="gps">Gps</string>
+    <string name="about">About</string>
+    <string name="img">img</string>
+    <string name="cancel">cancel</string>
+    <string name="Speed">Min speed to Max speed</string>
+    <string name="show">Show saved performance</string>
+    <string name="list_of_logs">List of logs</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyDg6oMXjH4xUTeLo1awvw4YL5_Mb2BHKPs</string>
+    <string name="license">This program is free software:
+        you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see https://www.gnu.org/licenses</string>
+</resources>
