@@ -1,6 +1,6 @@
 ######################################################
 # MAPS                                               # 
-# Project for course of Mobile and Pervasive Systems #
+# Project for Mobile and Pervasive Systems course    #
 #                                                    #
 # Academic code for academic purposes only.          #
 ######################################################
